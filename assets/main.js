@@ -16,7 +16,7 @@
 //         }
 //     }
 // }
-// </1-fold END
+// </1-fold END --- FIZZ-BUZZ ALGORITHM VERSION 1.0
 
 // <1-fold START --- FIZZ-BUZZ ALGORITHM VERSION 2.0 --- with stamp variable
 // // VAR ASSIGNMENT
@@ -47,7 +47,7 @@
 //
 //     console.log(stamp);
 // }
-// </1-fold END
+// </1-fold END --- FIZZ-BUZZ ALGORITHM VERSION 2.0
 
 // <1-fold START --- FIZZ-BUZZ ALGORITHM VERSION 2.1
 // VAR ASSIGNMENT
@@ -79,4 +79,4 @@ for (var i = 1; i <= 100; i++) {
 
     console.log(stamp);
 }
-// </1-fold END
+// </1-fold END --- FIZZ-BUZZ ALGORITHM VERSION 2.1
